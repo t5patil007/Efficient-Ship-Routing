@@ -1,4 +1,4 @@
-# Motion Planning around Obstacles with Convex Optimization
+# Efficient Ship Planning with GCS to navigate around Obstacles with Convex Optimization
 
 This repository contains the code to reproduce the examples in the paper [Motion Planning around Obstacles with Convex Optimization](https://arxiv.org/abs/2205.04422) by Tobia Marcucci, Mark Petersen, David von Wrangel, and Russ Tedrake.
 
