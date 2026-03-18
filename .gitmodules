@@ -1,3 +1,6 @@
 [submodule "gdp-get-started"]
 	path = gdp-get-started
 	url = https://github.com/Cloud-Drift/gdp-get-started.git
+[submodule "drake"]
+	path = drake
+	url = ./drake
